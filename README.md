@@ -1,5 +1,6 @@
 # Top-Ten-Sorting-Algorithm
 java编程十大排序算法，包括冒泡，选择，插入，归并，快速，希尔，堆，桶，计数，基数排序
+
 | 排序名称       | 地址    |  稳定性 | 
 | :--------:   | :-----:   | :----: | 
 | 冒泡排序        | [冒泡排序](https://github.com/winterzhcq/Top-Ten-Sorting-Algorithm/tree/master/bubblesort "冒泡排序")      |   稳定    | 
